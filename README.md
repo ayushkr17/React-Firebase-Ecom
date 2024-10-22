@@ -1,5 +1,3 @@
-Below is the detailed README file based on the discussions you’ve had in this thread. You can customize and update it further to suit your specific project needs.
-
 MyFirebaseApp
 
 Overview
